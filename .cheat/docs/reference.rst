@@ -1,6 +1,6 @@
 functionality module reference
 ==============================
 
-.. autofunction:: ci_demo.functionality.greet
+.. autofunction:: ci_course.functionality.greet
 
-.. autofunction:: ci_demo.functionality.minimum
+.. autofunction:: ci_course.functionality.minimum

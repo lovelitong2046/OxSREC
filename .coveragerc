@@ -1,4 +1,4 @@
 [run]
-source = ci_demo
+source = ci_course
 omit =
-    ci_demo/tests/*
+    ci_course/tests/*
